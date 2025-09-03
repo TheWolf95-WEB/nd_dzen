@@ -24,7 +24,7 @@ async def rss_xml():
 <rss version="2.0">
 <channel>
   <title>NDZONE: Telegram → Dzen</title>
-  <link>https://ndzone.ru</link>
+  <link>https://rss.ndhq.ru</link>
   <description>Автоимпорт постов</description>
   {''.join(items)}
 </channel>
